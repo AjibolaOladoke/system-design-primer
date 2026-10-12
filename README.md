@@ -6,7 +6,7 @@ This is part of the Swift Tech Co. working stack for product and engineering. It
 
 ## Images
 
-[![system-design-primer](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![system-design-primer](images/preview.png)](https://github.com/Swift-Tech-Co/system-design-primer)
 
 ## Motivation
 
@@ -1836,6 +1836,14 @@ My contact info can be found on my [GitHub page](https://github.com/donnemartin)
     Creative Commons Attribution 4.0 International License (CC BY 4.0)
 
     http://creativecommons.org/licenses/by/4.0/
+
+## Sources
+
+Compiled and maintained from upstream [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
