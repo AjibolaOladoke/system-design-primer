@@ -1860,3 +1860,11 @@ Compiled and maintained from upstream [donnemartin/system-design-primer](https:/
 ---
 
 Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
+
+## Sources
+
+Compiled and maintained from upstream [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
